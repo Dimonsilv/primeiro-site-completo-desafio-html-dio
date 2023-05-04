@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<main>
+    <section id="sobre"
+</main>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="http://127.0.0.1:5500/home.html">Página Principal</a></li>
+				<li><a href="http://127.0.0.1:5500/sobre.html">Sobre a clínica</a></li>
+				<li><a href="http://127.0.0.1:5500/atendimento.html">Horário de Atendimento</a></li>
+				<li><a href="http://127.0.0.1:5500/contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <!-- Aqui vai o seu header -->
+                <img src="https://media.istockphoto.com/id/973136992/pt/foto/medicine-doctor-and-stethoscope-touching-icon-heart-and-diagnostics-analysis-medical-on-modern.jpg?b=1&s=612x612&w=0&k=20&c=LlnV-6N4eEZnjJkTdaQqdN7qj68eRXzEPHT_7UjgC-g=" width="500">
+            </div>
+    
+            <div class="content">
+                <h2>Sobre a Clínica</h2>
+                <p> A Clínica Cardiológica foi fundada em 1995 e desde então tem oferecido serviços de excelência em cardiologia. Nossa equipe de especialistas é altamente qualificada e utiliza as mais modernas tecnologias e tratamentos para garantir o melhor atendimento aos nossos pacientes. </p>
+                <!-- Aqui vai o seu conteúdo -->
+            </div>
+    
+            <div class="footer">
+                <!-- Aqui vai o seu rodapé -->
+                <ul>
+                    <li><strong> Telefone: (11) 1234-5678</strong></li>
+                    <li> <strong> E-mail: contato@clinicacardiologica.com.br</strong></li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+    <main>
+        <footer>
+            <p>&copy; 2023 Clínica Cardiológica. Todos os direitos reservados.</p>
+        </footer>
+    </main>
+</body>
+</html>
