@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atendimento</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<main>
+    <section id="horario"
+</main>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->                    
+            <ul>
+                <li><a href="http://127.0.0.1:5500/home.html">Página Principal</a></li>
+				<li><a href="http://127.0.0.1:5500/sobre.html">Sobre a clínica</a></li>
+				<li><a href="http://127.0.0.1:5500/atendimento.html">Horário de Atendimento</a></li>
+				<li><a href="http://127.0.0.1:5500/contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <!-- Aqui vai o seu header -->
+                <img src="https://media.istockphoto.com/id/1297021407/pt/foto/creative-layout-made-of-colorful-heart-clock-on-pink-and-green-background-minimal-love-concept.jpg?b=1&s=612x612&w=0&k=20&c=RawZOaXQrLOTdCWL39KCqgzDm2MN2ok50lzzhSkyr54=" width="400">
+            </div>
+    
+            <div class="content">
+                <h2>Horário de Atendimento</h2>
+                <p>Veja na tabela abaixo os horários de atendimento e respectivos valores de cada exame: </p>
+            
+                <table border="tr">
+                    
+                    <tr>
+                      <th>Exames</th>
+                      <th>Segunda à Sexta</th>
+                      <th>Sábado</th>
+                      <th>Valor</th>
+                    </tr>
+                    <tr>
+                      <td>Eletrocardiograma(ECG)</td>
+                      <td>Das 8h as 18h</td>
+                      <td>Das 8h as 12h</td>
+                      <td>R$100,00</td>
+                    </tr>
+                    <tr>
+                      <td>Ecocardiograma</td>
+                      <td>Das 8h as 18h</td>
+                      <td>Das 8h as 12h</td>
+                      <td>R$100,00</td>
+                    </tr>
+                    <tr>
+                      <td>Teste ergométrico</td>
+                      <td>Das 8h as 18h</td>
+                      <td>Das 8h as 12h</td>
+                      <td>R$100,00</td>
+                      </tr>
+                  </table>
+                  
+                <!-- Aqui vai o seu conteúdo -->
+            </div>
+    
+            <div class="footer">
+                <!-- Aqui vai o seu rodapé -->
+                <ul>
+                    <li><strong> Telefone: (11) 1234-5678</strong></li>
+                    <li> <strong> E-mail: contato@clinicacardiologica.com.br</strong></li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+    <main>
+        <footer>
+            <p>&copy; 2023 Clínica Cardiológica. Todos os direitos reservados.</p>
+        </footer>
+    </main>
+</body>
+</html>
